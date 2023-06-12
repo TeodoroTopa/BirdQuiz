@@ -90,7 +90,7 @@ class Quiz:
             # if the option is correct it return true
             return True
         else:
-            mb.showinfo("INCORRECT", "Incorrect! That was a" + species[str(q_no)])
+            mb.showinfo("INCORRECT", "Incorrect! That was a " + species[str(q_no)])
             return False
 
     # This method is used to check the answer of the
