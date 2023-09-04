@@ -1,6 +1,7 @@
 # BirdQuiz
 
-This is a very rudimentary quiz I made one afternoon ahead of a Fall 2022 internship in Laikipia, Kenya. I wanted to quiz myself on Kenyan birds, and couldn't easily find something online. See below for example questions.
+This is a rudimentary quiz I made one afternoon ahead of a Fall 2022 internship in Laikipia, Kenya. I wanted to quiz myself on Kenyan birds, and couldn't easily find something online. This quiz uses web scraping to gather question information and randomized question selection. See below for example screenshots.
+
 This was built using the template at: https://www.geeksforgeeks.org/python-mcq-quiz-game-using-tkinter/
 
 ![image](https://github.com/TeodoroTopa/BirdQuiz/assets/27015256/34791da9-3db2-4836-b0c4-090de2993c76)
